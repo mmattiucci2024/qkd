@@ -1,6 +1,7 @@
 # QKD Emulator
 
 A Python-based emulator for **Quantum Key Distribution (QKD)**, designed to study and reproduce the main phases of a BB84-style protocol in a clear, inspectable, and experimental way.
+
 https://marcomattiucci.it/informatica_quantum_computing_qkd.php
 
 This project was created to explore how two parties can establish a shared secret key through quantum communication and public classical post-processing, including basis comparison, sifting, QBER estimation, and error analysis. The implementation is intended both as a didactic tool and as a practical software environment for testing QKD logic step by step.
