@@ -26,4 +26,4 @@ Typical simulated phases include:
 - Post-processing logic for key validation
 
 The goal of the software cirq_qkd.py is not to interact with real quantum hardware, but to provide a transparent and controllable environment for understanding how QKD works in practice.
-The goal of the software (three programs) developed for the project extension is to simulate and evaluate, as well as optimize, eavesdropping via the two quantum cloners mentioned above.
+The goal of the software (three programs: cirq_qkd_approximate_clone.py, cirq_qkd_approximate_clone.py and cirq_qkd_best_approximate_clone.py) developed for the project extension is to simulate and evaluate, as well as optimize, eavesdropping via the two quantum cloners mentioned above.
